@@ -4,6 +4,8 @@
 
 
 # 🧮 Calculadora de Edad
+[![Descargar App](https://img.shields.io/badge/Descargar-App%20Windows-blue?style=for-the-badge&logo=windows)](https://github.com/IsabelFigueroaV/Calculadora-edad/releases/download/v1.0.0/installer.exe)
+
 
 Aplicación de escritorio creada por **Isabel Figueroa V.** para calcular edad.
 
@@ -41,6 +43,9 @@ Aplicación de escritorio creada por **Isabel Figueroa V.** para calcular edad.
 ```
 
 ## 📂 Estructura del proyecto
+```bash
+tree /F /A > estructura.txt
+
 
 - src/ → Componentes React
 - public/ → HTML base
