@@ -54,4 +54,9 @@ Aplicación de escritorio creada por **Isabel Figueroa V.** para calcular edad.
 - npm
 - Windows 10 o superior
   
+ ## 📄 Licencia
+ 
+ Este proyecto está bajo la licencia [MIT](LICENSE).  
+ [![License](https://img.shields.io/badge/License-MIT-lavender.svg)](https://opensource.org/licenses/MIT)
+
   *Desarrollado con precisión y cariño por Isabel Figueroa V. – Ingeniera y consultora en IA aplicada..*
