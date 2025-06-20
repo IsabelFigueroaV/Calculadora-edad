@@ -1,0 +1,10 @@
+extends: null
+appId: com.isa.calculadora
+productName: calculadora
+directories:
+  output: dist
+files:
+  - build/**/*
+  - electron.js
+win:
+  target: nsis

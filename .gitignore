@@ -1,0 +1,12 @@
+# Ignorar empaquetado y caché
+dist/
+out/
+*.asar
+
+# Dependencias
+node_modules/
+
+# Configuración local
+.env
+.vscode/
+*.log
