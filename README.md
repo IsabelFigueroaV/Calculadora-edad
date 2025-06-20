@@ -43,9 +43,6 @@ Aplicación de escritorio creada por **Isabel Figueroa V.** para calcular edad.
 ```
 
 ## 📂 Estructura del proyecto
-```bash
-tree /F /A > estructura.txt
-
 
 - src/ → Componentes React
 - public/ → HTML base
@@ -53,7 +50,7 @@ tree /F /A > estructura.txt
 - dist/ → Instaladores (.exe)
 - electron.js → Entrada principal de Electron
   
-## 📦 Requisitos
+ ## 📦 Requisitos
 
 - Node.js 18+
 - npm
