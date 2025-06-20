@@ -12,7 +12,7 @@ Aplicación de escritorio creada por **Isabel Figueroa V.** para calcular edad.
   <img alt="Sistema Operativo" src="https://img.shields.io/badge/Windows-10%2B-blue?style=flat-square" />
   <img alt="Licencia" src="https://img.shields.io/badge/Licencia-MIT-lightgrey?style=flat-square" />
 </p>
----
+
 ## ✨ Funcionalidades
 
 - Cálculo preciso de edad según fecha de nacimiento.
