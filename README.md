@@ -1,9 +1,7 @@
 <p align="center">
-  <span style="display: inline-flex; align-items: center; background-color: #d8bfd8; color: #333333; padding: 5px 10px; border-radius: 8px; font-family: Arial, sans-serif; font-weight: bold; font-size: 12px; gap: 6px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" width="12" height="12" alt="React" />
-    CALCULADORA EDAD
-  </span>
+  <img src="https://img.shields.io/badge/App%20Calculadora%20de%20Edad-a6a8d4?style=for-the-badge&logo=react&logoColor=white" alt="App Calculadora de Edad" />
 </p>
+
 
 # 🧮 Calculadora de Edad
 
