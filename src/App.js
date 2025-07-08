@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import AgeCalculatorInput from './components/AgeCalculatorInput';
-import AgeCalculatorResult from './components/AgeCalculatorResult';
+import AgeCalculatorInput from './AgeCalculatorInput';
+import AgeCalculatorResult from './AgeCalculatorResult';
 import { saveAs } from 'file-saver'; // Asegúrate de tener esta librería instalada
 
 const App = () => {

@@ -41,6 +41,14 @@ Aplicación de escritorio creada por **Isabel Figueroa V.** para calcular edad.
    npm run postbuild
    npx electron-builder --config electron-builder.yml
 ```
+## ✏️ Generar documento Markdown
+
+Puedes crear un archivo Markdown personalizado ejecutando:
+
+```bash
+npm run generate-md -- "Título" "Contenido" [ruta_salida]
+```
+
 
 ## 📂 Estructura del proyecto
 
